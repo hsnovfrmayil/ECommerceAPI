@@ -1,0 +1,17 @@
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/bin/Debug/net7.0/ECommerceAPI.Infrastructure.deps.json
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/bin/Debug/net7.0/ECommerceAPI.Infrastructure.dll
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/bin/Debug/net7.0/ECommerceAPI.Infrastructure.pdb
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/bin/Debug/net7.0/ECommerceAPI.Application.dll
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/bin/Debug/net7.0/ECommerceAPI.Domain.dll
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/bin/Debug/net7.0/ECommerceAPI.Application.pdb
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/bin/Debug/net7.0/ECommerceAPI.Domain.pdb
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.AssemblyInfo.cs
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.csproj.CopyComplete
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.dll
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/refint/ECommerceAPI.Infrastructure.dll
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.pdb
+/Users/fermayilhesenov/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ref/ECommerceAPI.Infrastructure.dll

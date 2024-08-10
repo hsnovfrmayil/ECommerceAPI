@@ -1,0 +1,15 @@
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/bin/Debug/net7.0/ECommerceAPI.Application.deps.json
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/bin/Debug/net7.0/ECommerceAPI.Application.dll
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/bin/Debug/net7.0/ECommerceAPI.Application.pdb
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/bin/Debug/net7.0/ECommerceAPI.Domain.dll
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/bin/Debug/net7.0/ECommerceAPI.Domain.pdb
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/obj/Debug/net7.0/ECommerceAPI.Application.csproj.AssemblyReference.cache
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/obj/Debug/net7.0/ECommerceAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/obj/Debug/net7.0/ECommerceAPI.Application.AssemblyInfoInputs.cache
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/obj/Debug/net7.0/ECommerceAPI.Application.AssemblyInfo.cs
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/obj/Debug/net7.0/ECommerceAPI.Application.csproj.CoreCompileInputs.cache
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/obj/Debug/net7.0/ECommerceAPI.Application.dll
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/obj/Debug/net7.0/refint/ECommerceAPI.Application.dll
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/obj/Debug/net7.0/ECommerceAPI.Application.pdb
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/obj/Debug/net7.0/ref/ECommerceAPI.Application.dll
+/Users/fermayilhesenov/Projects/ECommerceAPI/Core/ECommerceAPI.Application/obj/Debug/net7.0/ECommerc.F181CD37.Up2Date
